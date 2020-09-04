@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/container-with-most-water/Container With Most Water
+// https://leetcode.com/problems/container-with-most-water/
 
 object Solution {
   def min(a: Int, b: Int): Int =
